@@ -34,7 +34,12 @@ Before you begin, ensure you have met the following requirements:
 To run **portfolio** locally, run this command on your git bash:
 
 Linux and macOS:
-
+jackjames5630@gmail.com
+JaGip@#$93
+hirokohana.dev@gmail.com
+hirokohana@#$93
+jamesmiller8612@gmail.com 
+Uslx.d9$@K&38)!
 ```bash
 sudo git clone https://github.com/jamesjavaid/portfolio.git
 ```
@@ -52,5 +57,4 @@ If you want to contact with me you can reach me at [X](https://www.x.com/ijamesj
 ### License
 
 This project is **free to use** and does not contains any license.
-jackjames5630@gmail.com
-JaGip@#$93
+
