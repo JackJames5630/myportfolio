@@ -52,3 +52,5 @@ If you want to contact with me you can reach me at [X](https://www.x.com/ijamesj
 ### License
 
 This project is **free to use** and does not contains any license.
+jackjames5630@gmail.com
+JaGip@#$93
